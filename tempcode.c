@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    FILE *f1 = fopen("filename.txt", "r");
+    FILE *f1 = fopen("Laxcode.txt", "r");
     int ch;
     
     while ((ch = fgetc(f1)) != EOF) {
