@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/fthom/Desktop/cd",
-      "program": "c:/Users/fthom/Desktop/cd/build/Debug/outDebug",
+      "cwd": "c:/Users/fthom/Desktop/cd/p-3",
+      "program": "c:/Users/fthom/Desktop/cd/p-3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
